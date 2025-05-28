@@ -27,4 +27,4 @@ I'm a software developer focused on building backend systems with Java, Spring B
     
 * LinkedIn: www.linkedin.com/in/gabrielnfonseca-bcknd
     
-* Location: Brasília, Brazil // Frankfurt, Germany
+* Location: Brasília, Brazil / Munich, Germany
