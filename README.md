@@ -40,7 +40,7 @@ I'm a software developer focused on building backend systems with Java, Spring B
 
 📫 Contact
    
-* Email: gabrielfonseca.developer@gmail.com
+* Email: gnfonseca.dh@gmail.com
     
 * LinkedIn: www.linkedin.com/in/gabrielnfonseca-bcknd
     
