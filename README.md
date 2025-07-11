@@ -3,6 +3,8 @@ I'm a software developer focused on building backend systems with Java, Spring B
 
 ⚙️ Tech Stack
 
+* PhP, C# and Python
+* Django and .Net
 * Java 6, 8, 17 and 21
 * Legacy projects | new projects
 * Query optimization 
